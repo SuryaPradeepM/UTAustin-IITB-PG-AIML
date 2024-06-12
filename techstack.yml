@@ -1,0 +1,31 @@
+repo_name: SuryaPradeepM/UTAustin-IITB-PG-AIML
+report_id: ea2048decce60b6677fa8a3cf97fb12e
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-12T09:33:35+00:00'
+requested_by: SuryaPradeepM
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/SuryaPradeepM/UTAustin-IITB-PG-AIML
+  detection_source: Repo Metadata
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/SuryaPradeepM/UTAustin-IITB-PG-AIML
+  detection_source: Repo Metadata
